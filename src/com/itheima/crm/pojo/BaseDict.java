@@ -6,6 +6,7 @@ public class BaseDict implements Serializable {
 	/**
 	 * 
 	 */
+	private int number;
 	private static final long serialVersionUID = 1L;
 	private String dict_id;
 	private String dict_type_code;
